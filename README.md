@@ -4,8 +4,6 @@
 
 - <b>osTicket: Creating a Help Desk Ticketing System</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mikiahcarnes/osticketsetup)
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Example]
 - <b></b>
   - 
 - <b></b>
