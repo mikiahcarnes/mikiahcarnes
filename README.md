@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Example](https://github.com/mikiahcarnes/osticket-example)
     
 - <b>Microsoft Azure and Active Directory</b>
-  - [Active Directory with Azure VM](https://github.com/mikiahcarnes/azuread)
+  - [Active Directory with Azure](https://github.com/mikiahcarnes/azuread)
 
 <h2> 🤳 Connect with me</h2>
 
