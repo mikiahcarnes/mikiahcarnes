@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/mikiahcarnes/osticket-configuration)
   - [osTicket: Ticket Lifecycle Example](https://github.com/mikiahcarnes/osticket-example)
     
-- <b>Microsoft Azure and Active Directory</b>
+- <b>Microsoft Azure</b>
   - [Active Directory with Azure](https://github.com/mikiahcarnes/azuread)
 
 <h2> 🤳 Connect with me</h2>
